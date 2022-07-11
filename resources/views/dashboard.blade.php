@@ -239,6 +239,7 @@
 									<h5 class="card-title mb-0">Empty card</h5>
 								</div>
 								<div class="card-body">
+                                    <h1>Hello world</h1>
 								</div>
 							</div>
 						</div>
