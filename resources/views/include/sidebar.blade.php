@@ -5,7 +5,7 @@
         </a>
         <ul class="sidebar-nav">
             <li class="sidebar-header">
-                Pages
+                Menus
             </li>
 
             <li class="sidebar-item active">
