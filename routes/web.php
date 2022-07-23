@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('layouts.master');
 });
 
+Route::get('/hehe', function () {
+    return view('pages.matakuliah');
+});
+
 Route::middleware([
     'auth:sanctum',
     config('jetstream.auth_session'),
